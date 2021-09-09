@@ -1,0 +1,24 @@
+{
+  "name": "modmail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaber-sayed/modmail.git"
+  },
+  "keywords": [
+    "modmail",
+     "eagle-developers",
+    "gaber"
+  ],
+  "author": "Gaber-sayed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gaber-sayed/modmail/issues"
+  },
+  "homepage": "https://github.com/Gaber-sayed/modmail#readme"
+}
