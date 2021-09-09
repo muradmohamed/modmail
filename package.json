@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gaber-sayed/modmail.git"
+    "url": "git+https://github.com/muradmohamed/modmail.git"
   },
   "keywords": [
     "modmail",
@@ -18,7 +18,7 @@
   "author": "Gaber-sayed",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Gaber-sayed/modmail/issues"
+    "url": "https://github.com/muradmohamed/modmail/issues"
   },
-  "homepage": "https://github.com/Gaber-sayed/modmail#readme"
+  "homepage": "https://github.com/muradmohamed/modmail#readme"
 }
